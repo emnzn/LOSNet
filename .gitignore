@@ -1,6 +1,10 @@
-./*
-data/*
+.*
+data/
+
 *.pth
+*.pth.tar
 *.joblib
-__pychache__
-tensorboard/*
+
+__pycache__/
+
+tensorboard/
