@@ -1,1 +1,6 @@
 ./*
+data/*
+*.pth
+*.joblib
+__pychache__
+tensorboard/*
